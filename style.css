@@ -267,6 +267,8 @@ button:focus {
 	font-family: 'Lato', sans-serif;
 	font-weight: 700;
 	margin-top: -11px;
+	width: auto;
+	height: 2%;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -277,6 +279,7 @@ button:focus {
 .navbar-brand img{
 	margin-top: -12px;
 }
+
 
 #mu-header.mu-fixed-nav{
 	background-color: rgba(0,0,0,0.8);
@@ -1091,7 +1094,7 @@ button:focus {
 
 	.mu-primary-btn {
 		font-size: 14px;
-		padding: 12px 22px;
+		padding: 20px 22px;
 	}
 
 	.mu-single-counter {
